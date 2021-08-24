@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#section1{
+    background: red;
+
+}
+
+.section2-title{
+    color: #2ddf5c;   
+}
+
+#section2{
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
